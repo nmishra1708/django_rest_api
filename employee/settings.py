@@ -26,7 +26,7 @@ SECRET_KEY = 'ch!mc8#o&!@mtej#i-%jj28+$1l5#ern=a@hj#$!18m%(*#0_6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nmishra1708-app1.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['djangores.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
